@@ -4,7 +4,6 @@
 
 require_once("guid.php");
 session_start();
-$db = new PDO('mysql:host=localhost;dbname=mattscpps;charset=utf8', 'root', 'passwordhere');
 $msg = "";
 $color = $_POST['color'];
 $name = $_POST['name'];
