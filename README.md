@@ -3,4 +3,4 @@ Various files from original Matt's CPPS website (2012 server emulator for kids' 
 
 NOTICE: Emulator code not included
 
-All inventory items exclusive to Matt's CPPS have been released. You can find them in global-custom.
+**All inventory items exclusive to Matt's CPPS have been released. You can find them in global-custom.**
